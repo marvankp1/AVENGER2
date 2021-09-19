@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/marvankp1">marvankp</a> to make i
   <a href="httsp://github.com/marvankp1/AVENGER">
     <img src="https://img.shields.io/github/repo-size/marvankp1/AVENGER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/marvankp1/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/marvankp1/followers"><img title="Followers" src="https://img.shields.io/github/followers/marvankp1?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/marvankp1/AVENGER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/marvankp1/AVENGER?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/marvankp1/AVENGER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/marvankp1/AVENGER?color=f7df1e&style=flat-square"></a>
 
