@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/marvankp1">marvankp</a> to make i
 <br>
   <div align="center">
     
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/Gw7VwSNTRQl49XsSCatWjt)
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/Eo11rBO1HLgEUeVdhLdAGr)
 
 
     
