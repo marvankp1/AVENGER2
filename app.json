@@ -111,7 +111,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```Killadism never ends !!!```\n\n```Type``` *.assist* ```for commands```\n\n```𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊```\n\n *Coded by Souravkl11*\n\n```Contact owner: wa.me/91xxxxxxxxxx```"
+            "value": "\n ```Killadism never ends !!!```\n\n```Type``` *.assist* ```for commands```\n\n```𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊```\n\n *Coded by marvankp1*\n\n```Contact owner: wa.me/91xxxxxxxxxx```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -161,7 +161,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner! Type your name here.",
             "required": false,
-            "value": "default"
+            "value": "marvan"
         },   
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
