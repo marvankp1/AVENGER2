@@ -1,6 +1,6 @@
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=7fffd4&size=25&lines=AVENGER+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+SouravKL11)](https://bit.ly/3lC8I7t)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=7fffd4&size=25&lines=AVENGER+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+marvankp1)](https://bit.ly/3lC8I7t)
 
 
   <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="Marvankp.jpg" height="300" width="450" /></a>
@@ -101,4 +101,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
   <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=AVENGER+BOT+SET)](https://bit.ly/3lC8I7t)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=7fffd4&size=30&lines=AVENGER+BOT+SET)](https://bit.ly/3lC8I7t)
