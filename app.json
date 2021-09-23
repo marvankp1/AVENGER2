@@ -1,10 +1,10 @@
 {
     "name": "AVENGER Whatsapp BOT",
     "description": "AVENGER bot - Edited from Whatsasena public.  Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "Marvankp.jpg",
+    "logo": "https://1.bp.blogspot.com/-53OCBTq51ck/YTjL9tQ2nrI/AAAAAAAAATU/7ibQYuRmxC4COer9QwPUxZFsFBE8OR6KwCLcBGAsYHQ/s1000/IMG-20210907-WA0271.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/marvankp1/AVENGER",
-    "website":   "https://github.com/marvankp1/AVENGER",
+    "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
