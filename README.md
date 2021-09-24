@@ -35,22 +35,6 @@ Project created by <a href="https://github.com/marvankp1">marvankp</a> to make i
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="https://instagram.com/MARVAN871" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
-</p>
-  
-<div align="center">
-
-## 📢 Guide
-### Join Support Group 👇
-   
-<br>
-  <div align="center">
-    
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/Eo11rBO1HLgEUeVdhLdAGr)
-
 
     
 ## Setup
@@ -69,7 +53,36 @@ Project created by <a href="https://github.com/marvankp1">marvankp</a> to make i
      <div align="left">
 <br>
 <br >
+  </p>
+  
+  </p>
+  
 
+<div align="center">
+<details>
+    <summary>🔻<b>CLICK HERE FOR MORE INFO🔻</b></summary>
+  
+  </p>
+
+<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<div align="center">
+<p align="center">
+
+<a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="https://1.bp.blogspot.com/-53OCBTq51ck/YTjL9tQ2nrI/AAAAAAAAATU/7ibQYuRmxC4COer9QwPUxZFsFBE8OR6KwCLcBGAsYHQ/s1000/IMG-20210907-WA0271.jpg" height="180" width="300" /></a>
+
+
+</p>
+
+  
+<div align="center">
+
+## 📢 Guide
+### Join Support Group 👇
+   
+<br>
+  <div align="center">
+    
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/Eo11rBO1HLgEUeVdhLdAGr)
 [![MARVANKP1](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
    
 
