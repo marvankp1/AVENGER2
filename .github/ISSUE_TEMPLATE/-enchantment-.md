@@ -1,14 +1,9 @@
 ---
-
 name: "[ENCHANTMENT]"
-
 about: Suggest an idea for this project
-
 title: ''
-
-labels: Enhancement, Question
-
-assignees: phaticusthiccy
+labels: ''
+assignees: ''
 
 ---
 
