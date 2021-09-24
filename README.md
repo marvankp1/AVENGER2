@@ -64,7 +64,7 @@ Project created by <a href="https://github.com/marvankp1">marvankp</a> to make i
   
   </p>
 
-<h4 align="center">Support Video For Deploy BOT 👇:</h4>
+<h4 align="center">Support Video For DEPLOY BOT 👇:</h4>
 <div align="center">
 <p align="center">
 
