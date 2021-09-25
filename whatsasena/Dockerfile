@@ -6,4 +6,4 @@ ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
 
-CMD ["AVENGER NOT WORKING.....", "bot.js"]
+CMD ["node", "bot.js"]
